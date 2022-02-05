@@ -1,7 +1,5 @@
 # Merhabalar Ben SlipBey
 
-![banner](https://cdn.discordapp.com/attachments/905502152749895710/923864320432042024/slipyme_Mockup.png)
-
 Uzun süredir Full-Stack yazılım geliştiriciliği yapıyorum, yazılım sektöründe büyük işlere imza atmak için buradayım :9
 
 Genelde en çok web ve masaüstü programlama alanında işler yapıyorum; en sevdiklerim: React.JS, Next.JS, TypeScript, JavaScript
