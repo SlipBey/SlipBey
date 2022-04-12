@@ -9,6 +9,7 @@ Genelde en çok web ve masaüstü programlama alanında işler yapıyorum; en se
 <p align="center">
     <a href="http://instagram.com/SlipBey"><img src="https://img.shields.io/badge/SlipBey%20-DD2A7B.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://discord.com/users/4075642315805818882"><img src="https://img.shields.io/badge/Slipknot%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://www.npmjs.com/~mynameisslikc"><img src="https://img.shields.io/badge/mynameisslik%20-1d202b.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
     <a href="https://www.slipyme.xyz/discord"><img src="https://img.shields.io/badge/Sunucum%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://github.com/SlipBey"><img src="https://img.shields.io/badge/SlipBey%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://www.slipyme.xyz/youtube"><img src="https://img.shields.io/badge/Slip%20Bey%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
